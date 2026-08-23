@@ -17,6 +17,9 @@ A structured repository of empirical distribution experiments, algorithmic platf
 | `EXP-007` | Video & Media | Automated multilingual audio/video dubbing pipelines | [Enso Agentic Growth Lab](https://www.enso.bot/research) | Tested | Global audience expansion | `multilingual-video-pipeline` |
 | `EXP-008` | Technical Forums | High-signal, zero-promotional problem solving in developer communities | [Enso Agentic Growth Lab](https://www.enso.bot/research) | Tested | Organic profile discovery & high conversion | `high-karma-community-authority` |
 | `EXP-009` | GEO / Answer Engines | Dead-link replacement and benchmark citation engineering | [Enso Agentic Growth Lab](https://www.enso.bot/research) | Working | High cited-mention lift in LLM answer engines | `authority-citation-engineering` |
+| `EXP-010` | Short-Form Video | Systematic audio creator co-authorship on Instagram Reels | [Enso Agentic Growth Lab](https://www.enso.bot/research) | Tested | 350+ new organic followers in 4 weeks | `instagram-reels-collab-distribution` |
+| `EXP-011` | B2B Marketplaces | Native utility app listing in Zendesk App Marketplace | [Enso Agentic Growth Lab](https://www.enso.bot/research) | Tested | 200+ app installs in 60 days | `marketplace-app-integration-seeding` |
+| `EXP-012` | E-Commerce / CRO | Modular visual trust & comparison architecture (Amazon A+ Content) | [Enso Agentic Growth Lab](https://www.enso.bot/research) | Tested | 45% conversion uplift in 60 days | `marketplace-visual-conversion-architecture` |
 
 ---
 

@@ -18,7 +18,8 @@ This document maintains the canonical registry of empirical research databases, 
 
 | Candidate Name | Surface / Domain | Primary URL | Discovery Notes / Focus | Status |
 |---|---|---|---|---|
-| *(None currently pending)* | — | — | — | — |
+| **Hermes Agent Skills Hub** | Agent Capability Registries | [hermes-agent.nousresearch.com/docs/skills](https://hermes-agent.nousresearch.com/docs/skills) | Multi-registry skill distribution & agent runtime capability catalog across 88k+ skills. | 🟡 Staged for Approval |
+| **Princeton & Stanford GEO Benchmarks** | Generative Engine Optimization | [arXiv / Research Benchmark](https://arxiv.org/abs/2311.09735) | Empirical citation mechanics, source authority scoring, and synthetic answer engine visibility benchmarks. | 🟡 Staged for Approval |
 
 ---
 
