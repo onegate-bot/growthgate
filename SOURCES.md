@@ -9,6 +9,8 @@ This document maintains the canonical registry of empirical research databases, 
 | Source Name | Organization / Author | Primary URL / Endpoint | Focus Areas | Added Date | Status |
 |---|---|---|---|---|---|
 | **Enso Agentic Growth Lab** | Enso (`enso.bot`) | [enso.bot/research](https://www.enso.bot/research)<br>[enso.bot/llms-full.txt](https://www.enso.bot/llms-full.txt) | Platform distribution exploits, SDR automation, GEO/answer engine citation experiments, agent supply distribution | 2026-08-19 | 🟢 Active |
+| **Hermes Agent Skills Hub** | Agent Capability Registries | [hermes-agent.nousresearch.com/docs/skills](https://hermes-agent.nousresearch.com/docs/skills) | Multi-registry skill distribution & agent runtime capability catalog across 88k+ skills. | 2026-08-24 | 🟢 Active |
+| **Princeton & Stanford GEO Benchmarks** | Generative Engine Optimization | [arXiv / Research Benchmark](https://arxiv.org/abs/2311.09735) | Empirical citation mechanics, source authority scoring, and synthetic answer engine visibility benchmarks. | 2026-08-24 | 🟢 Active |
 
 ---
 
@@ -16,10 +18,7 @@ This document maintains the canonical registry of empirical research databases, 
 
 *New sources discovered by the weekly scanner will be staged here for review and explicit approval before activation.*
 
-| Candidate Name | Surface / Domain | Primary URL | Discovery Notes / Focus | Status |
-|---|---|---|---|---|
-| **Hermes Agent Skills Hub** | Agent Capability Registries | [hermes-agent.nousresearch.com/docs/skills](https://hermes-agent.nousresearch.com/docs/skills) | Multi-registry skill distribution & agent runtime capability catalog across 88k+ skills. | 🟡 Staged for Approval |
-| **Princeton & Stanford GEO Benchmarks** | Generative Engine Optimization | [arXiv / Research Benchmark](https://arxiv.org/abs/2311.09735) | Empirical citation mechanics, source authority scoring, and synthetic answer engine visibility benchmarks. | 🟡 Staged for Approval |
+*(No candidates currently pending review)*
 
 ---
 
