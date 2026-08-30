@@ -18,6 +18,40 @@
     ],
     "status": "active",
     "date_added": "2026-08-19",
-    "last_scanned": "2026-08-23"
+    "last_scanned": "2026-08-30"
+  },
+  {
+    "id": "SRC-002",
+    "name": "Hermes Agent Skills Hub",
+    "organization": "Agent Capability Registries",
+    "url": "https://hermes-agent.nousresearch.com/docs/skills",
+    "endpoints": [
+      "https://hermes-agent.nousresearch.com/docs/skills"
+    ],
+    "focus_areas": [
+      "Multi-registry skill distribution",
+      "Agent runtime capability catalog across 88k+ skills",
+      "Programmatic skill discovery"
+    ],
+    "status": "active",
+    "date_added": "2026-08-24",
+    "last_scanned": "2026-08-30"
+  },
+  {
+    "id": "SRC-003",
+    "name": "Princeton & Stanford GEO Benchmarks",
+    "organization": "Generative Engine Optimization",
+    "url": "https://arxiv.org/abs/2311.09735",
+    "endpoints": [
+      "https://arxiv.org/abs/2311.09735"
+    ],
+    "focus_areas": [
+      "Empirical citation mechanics",
+      "Source authority scoring",
+      "Synthetic answer engine visibility benchmarks"
+    ],
+    "status": "active",
+    "date_added": "2026-08-24",
+    "last_scanned": "2026-08-30"
   }
 ]
