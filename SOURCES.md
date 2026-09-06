@@ -16,9 +16,10 @@ This document maintains the canonical registry of empirical research databases, 
 
 ## 🔍 Candidate Sources Under Evaluation (Pending Review & Approval)
 
-*New sources discovered by the weekly scanner will be staged here for review and explicit approval before activation.*
-
-*(No candidates currently pending review)*
+| Candidate Source | Organization / Authors | URL / Reference | Focus Area | Staged Date |
+|---|---|---|---|---|
+| **Optimizing Visibility in Generative Engines Survey** | arXiv Research Working Group | [arXiv:2607.14035](https://arxiv.org/abs/2607.14035) | Multi-stage pipeline GEO benchmarks, citation vs absorption dynamics, statistical lifting factors | 2026-09-06 |
+| **Similarweb 2026 Generative AI Visibility Index** | Similarweb Research | [similarweb.com/blog/what-is-geo/](https://aisearch.similarweb.com/blog/what-is-geo/) | Consumer search shift tracking, zero-click answer engine market shares | 2026-09-06 |
 
 ---
 
