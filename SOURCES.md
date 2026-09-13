@@ -20,11 +20,13 @@ This document maintains the canonical registry of empirical research databases, 
 |---|---|---|---|---|
 | **Optimizing Visibility in Generative Engines Survey** | arXiv Research Working Group | [arXiv:2607.14035](https://arxiv.org/abs/2607.14035) | Multi-stage pipeline GEO benchmarks, citation vs absorption dynamics, statistical lifting factors | 2026-09-06 |
 | **Similarweb 2026 Generative AI Visibility Index** | Similarweb Research | [similarweb.com/blog/what-is-geo/](https://aisearch.similarweb.com/blog/what-is-geo/) | Consumer search shift tracking, zero-click answer engine market shares | 2026-09-06 |
+| **Branch 2026 Enterprise AI Search Benchmark** | Branch.io / Enterprise Marketing Research | [branch.io/resources/blog/ai-search-in-2026-key-findings-from-300-enterprise-leaders/](https://www.branch.io/resources/blog/ai-search-in-2026-key-findings-from-300-enterprise-leaders/) | Empirical GEO budget allocations, crawlability factors, LLM citation conversion premiums (10-15% vs 1.8% organic) | 2026-09-13 |
+| **B2A & Autonomous Agent Distribution Index** | Gartner & Industry Research Working Group | [forbes.com/councils/forbestechcouncil/2026/09/11/the-era-of-b2a-marketing/](https://www.forbes.com/councils/forbestechcouncil/2026/09/11/the-era-of-b2a-marketing-position-your-brand-to-appeal-to-agents/) | Machine-to-machine procurement discovery, latency/schema readiness standards for agentic distribution | 2026-09-13 |
 
 ---
 
 ## ⚙️ How New Sources Are Added & Maintained
 
-1. **Discovery:** The weekly intelligence scanner (`scripts/track-growth-sources.py`) monitors established feeds and searches for new empirical growth studies, agent ecosystem distribution playbooks, and GEO benchmarks.
+1. **Discovery:** The weekly intelligence scanner monitors established feeds and searches for new empirical growth studies, agent ecosystem distribution playbooks, and GEO benchmarks.
 2. **Review & Approval:** Every newly discovered candidate is logged in this registry and submitted for human review and approval.
 3. **Activation & Synthesis:** Upon approval, the source is marked 🟢 **Active**, ingested into weekly scans, and its tactical methodologies are synthesized into structured skill specifications (`skills/`) with proper attribution.
